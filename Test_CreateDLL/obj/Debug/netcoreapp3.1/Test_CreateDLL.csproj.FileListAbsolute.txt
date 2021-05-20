@@ -1,0 +1,9 @@
+C:\ICTWAY\workspace_dwg2tilesetStructureBuilder\3DUST_TEST\Test_CreateDLL\bin\Debug\netcoreapp3.1\Test_CreateDLL.deps.json
+C:\ICTWAY\workspace_dwg2tilesetStructureBuilder\3DUST_TEST\Test_CreateDLL\bin\Debug\netcoreapp3.1\Test_CreateDLL.dll
+C:\ICTWAY\workspace_dwg2tilesetStructureBuilder\3DUST_TEST\Test_CreateDLL\bin\Debug\netcoreapp3.1\Test_CreateDLL.pdb
+C:\ICTWAY\workspace_dwg2tilesetStructureBuilder\3DUST_TEST\Test_CreateDLL\obj\Debug\netcoreapp3.1\Test_CreateDLL.csprojAssemblyReference.cache
+C:\ICTWAY\workspace_dwg2tilesetStructureBuilder\3DUST_TEST\Test_CreateDLL\obj\Debug\netcoreapp3.1\Test_CreateDLL.AssemblyInfoInputs.cache
+C:\ICTWAY\workspace_dwg2tilesetStructureBuilder\3DUST_TEST\Test_CreateDLL\obj\Debug\netcoreapp3.1\Test_CreateDLL.AssemblyInfo.cs
+C:\ICTWAY\workspace_dwg2tilesetStructureBuilder\3DUST_TEST\Test_CreateDLL\obj\Debug\netcoreapp3.1\Test_CreateDLL.csproj.CoreCompileInputs.cache
+C:\ICTWAY\workspace_dwg2tilesetStructureBuilder\3DUST_TEST\Test_CreateDLL\obj\Debug\netcoreapp3.1\Test_CreateDLL.dll
+C:\ICTWAY\workspace_dwg2tilesetStructureBuilder\3DUST_TEST\Test_CreateDLL\obj\Debug\netcoreapp3.1\Test_CreateDLL.pdb
