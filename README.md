@@ -30,5 +30,4 @@ A simple C# example project that demonstrates how to **create a DLL** and **use 
 
 ## 📄 License
 
-This project is provided without explicit license information.  
-Please check with the repository owner before using or distributing the code.
+This project is licensed under the **MIT License**. @yhsang2
