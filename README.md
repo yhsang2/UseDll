@@ -1,4 +1,4 @@
-# UseDll 🔧
+# UseDLL 🔧
 
 A simple C# example project that demonstrates how to **create a DLL** and **use it in another project**.
 
