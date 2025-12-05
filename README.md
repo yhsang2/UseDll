@@ -31,7 +31,7 @@ A simple C# example project that demonstrates how to **create a DLL** and **use 
 ## ☕ Support
 
 If this project helped you,  
-you can **buy me a coffee** and support my work:
+you can **buy me a coffee** and support my work :)
 
 👉 **https://buymeacoffee.com/yhsang2**
 
