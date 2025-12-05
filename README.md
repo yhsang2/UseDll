@@ -19,3 +19,16 @@ A simple C# example project that demonstrates how to **create a DLL** and **use 
 3. The referenced DLL from `Test_CreateDLL` will be automatically used.
 
 ---
+
+## 🎯 Why Use This
+
+- ✅ Simple & minimal: easy to understand and integrate.  
+- ✅ Demonstrates a common pattern: separating reusable logic into a DLL, then referencing it.  
+- ✅ Good starting point for modularizing larger C#/.NET applications.  
+
+---
+
+## 📄 License
+
+This project is provided without explicit license information.  
+Please check with the repository owner before using or distributing the code.
